@@ -4,7 +4,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-import com.mysql.cj.xdevapi.Table;
 
 import javafx.application.Application;
 import javafx.collections.ObservableList;
